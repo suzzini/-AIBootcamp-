@@ -37,3 +37,4 @@
 > The number of passes to complete one epoch
 
 ![image](https://user-images.githubusercontent.com/57658183/121131263-7af69100-c86a-11eb-98b2-5d9bbc22b902.png)
+[참고링크](https://m.blog.naver.com/qbxlvnf11/221449297033)
